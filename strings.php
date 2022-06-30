@@ -72,7 +72,7 @@ return $strings = array(
     'While searching "%1$s" found %2$s internet videos. %3$s'=>'"%1$s" aranırken %2$s internet videosu bulundu. %3$s',
     'Searching for "%1$s" found %2$s sound file. %3$s'=>'"%1$s" arandığında %2$s ses dosyası bulundu. %3$s',
     'Under construction'=>'Yapım halinde',
-    'TATDig Internet Search Engine'=>'TATDig Türk İnternet Arama Motoru',
+    'TATDig Internet Search Engine'=>'TATDig Türkic İnternet Arama Motoru',
     '#description#'=>'TATDig gerçek bir Türk İnternet Arama Motorudur. Türk dilleri konuşuyoruz. Türk dillerinde arıyoruz! Türk dillerini koruyor ve geliştiriyoruz.',
     '#keywords#'=>'Türk, Türk dilleri, Türk internet arama motoru, sözlük, haberler',
     'support for system use'=>'sistem kullanımı için destek',
@@ -221,5 +221,12 @@ return $strings = array(
     'password'=>'şifre',
     'signature'=>'imza',
     'Already registered?'=>'Zaten kayıtlı?',
+    'internet'=>'internet',
+    'TATDig Turkic search engine'=>'TATDig arama motoru Turkic',
+    'TATDig true Turkic news results'=>'TATDig gerçek Turkic haber sonuçları',
+
+    'Searching for "%1$s" found %2$s word'=>'"%1$s" için yapılan aramada %2$s kelime bulundu',
+    'image'=>'resim',
+    'The title of the page is too short'=>'Sayfanın başlığı çok kısa',
 );
 ?>
